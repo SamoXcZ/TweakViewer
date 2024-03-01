@@ -14,8 +14,8 @@ Bootstarp Jailbreak.
 ## Supported Devices and iOS
 While TweakViewer Only Supports
 Bootstarp Jailbreak it only supports
-up from A12-A17 devices only.
-The app Works from ios 15.0-17.0 ("the same versions that boostarp jailbreak does")
+up from A8-A17 devices only.
+The app Works from ios 15.0-17.0 
 
 ## Known Issues
 So, there are issues with the app. During bootstrap installation, it randomizes the .jb••••• folder, making it different for everyone. If the app appears blank, it means the app couldn’t find the .jb•••• folder on your device. This issue may also occur if you try to change the app’s ‘Name,’ ‘Version,’ or ‘BundleID before installing it.
